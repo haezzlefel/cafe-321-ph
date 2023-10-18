@@ -313,16 +313,17 @@ html {
     display: block;
     color: #8c6239;
     text-align: center;
-    padding: 24px 16px;
-    margin:auto 1rem;
+    padding: 20px 10px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 18px;
+    font-weight: bold;
     position:relative;
+    margin-right: 10px;
   }
   
   .logo{
     width:100px;
-    height:40px;
+    height:75px;
     position:absolute;
     top:0.2rem;
     border-radius:0px;
@@ -458,7 +459,7 @@ html {
     width:100%;
     height:100vh;
     position:relative;
-    background-image:url("../images/matchastrawberry.jpg");
+    background-image:url("../images/pekus.jpg");
     background-size:cover;
     background-attachment:fixed;
   }
@@ -503,12 +504,14 @@ html {
   
     .container section .title-2{
       font-size:1.6em;
+      left: auto;
     }
   
     .container section .sub-title{
-      font-size:1.1em;
+      font-size:1.5em;
     }
   }
+  
   
   /*SECTION1*/
   .section1{
